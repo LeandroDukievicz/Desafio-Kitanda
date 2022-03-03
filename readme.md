@@ -8,4 +8,4 @@
 
 ## Desafio Bootcamp TI Academy
 #
-#### Criação de uma aplicação, simulando um caixa de Quitanda.
+#### Criação de uma [aplicação](https://leandrodukievicz.github.io/Desafio-Kitanda/), simulando um caixa de Quitanda.
